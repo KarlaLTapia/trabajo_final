@@ -1,5 +1,5 @@
 <INICIO>
 1. Obtener resultado de data_transform
 2. Insertarlo en un archivo Excel = data_transformada
-3. Exportarlo a la ruta: C:\Users\User\workspace\trabajo_final
+3. Enviarlo por correo ('ktapia@headcoachs.com')
 <FIN>
